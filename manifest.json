@@ -7,7 +7,6 @@
     "default_popup": "pop-up/pop-up.html"
   },
   "background": {
-    "service_worker": "background.js",
     "type": "module"
   },
   "icons": {
@@ -23,6 +22,12 @@
       "css": ["content-style.css"]
     }
   ],
-  "devtools_page": "devtools.html",
-  "permissions": ["activeTab", "storage"]
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+P",
+        "mac": "MacCtrl+Command+P"
+      }
+    }
+  }
 }
