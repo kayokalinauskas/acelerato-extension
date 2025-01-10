@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Acelerato Helper",
   "description": "Acelerato Helper",
-  "version": "1.0",
+  "version": "1.01",
   "action": {
     "default_popup": "pop-up/pop-up.html"
   },
