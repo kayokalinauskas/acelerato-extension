@@ -10,5 +10,5 @@ A **Acelerato Helper** é uma extensão auxiliar da ferramenta de atendimento ao
 ## Instalação
 
 1. Acesse a [Chrome Web Store](https://chromewebstore.google.com/detail/acelerato-helper/lanlcaoldikialljjdbngbpelggnjmab).
-2. Clique no botão "Adicionar ao Chrome".
+2. Clique no botão "Usar no chrome".
 3. Confirme a instalação na janela pop-up exibida.
